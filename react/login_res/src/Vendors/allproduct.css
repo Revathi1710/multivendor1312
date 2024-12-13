@@ -1,0 +1,19 @@
+
+.allproductDetails{
+
+background: white;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: left;
+}
+.productDetailsvendor{
+    border: 1px solid rgb(224, 224, 224);
+    border-radius: 8px;
+    margin: 10px;
+    padding:10px;
+}
+.price s{
+  font-size: 20px;
+  color:red;
+  padding:10px;
+}

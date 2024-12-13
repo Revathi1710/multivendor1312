@@ -1,0 +1,41 @@
+ul{
+
+    list-style: none;
+    padding-left:0px;
+
+}
+.submenu{
+    list-style: none;
+}
+.list{
+    background-color: white;
+    padding:8px;
+    text-align:left;
+    margin:10px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+
+}
+.sub-menu a{
+    text-decoration: none;
+    color:black;
+}
+.content{
+    padding:0px;
+
+}
+.form{
+    padding-left:0px;
+    padding-right: 0px;
+}
+.businessSidebar{
+    padding-left:0px;
+    padding-right: 0px;
+}
+.perbox{
+    padding-left:0px;
+    padding-right: 0px;
+
+}
+.add-category-content2{
+    margin-left:0px;
+}
